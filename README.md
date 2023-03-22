@@ -7,6 +7,7 @@ useLayoutEffect
 Memo
 useMemo
 useCallback
+useReducer
 ```
 
 Antes de empezar, [instala Compose](https://docs.docker.com/compose/install/).
